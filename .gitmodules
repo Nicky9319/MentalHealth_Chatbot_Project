@@ -1,0 +1,6 @@
+[submodule "MentalHealth_Chatbot_Backend"]
+	path = MentalHealth_Chatbot_Backend
+	url = https://github.com/Nicky9319/MentalHealth_Chatbot_Backend.git
+[submodule "MentalHealth_Chatbot_Frontend"]
+	path = MentalHealth_Chatbot_Frontend
+	url = https://github.com/Nicky9319/MentalHealth_Chatbot_Frontend.git
